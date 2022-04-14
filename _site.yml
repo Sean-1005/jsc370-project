@@ -1,11 +1,11 @@
 name: "my jsc project"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "JSC370 Final Project"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Second Page"
+    - text: "Report"
+      href: JSC370_midterm_report.html
+    - text: "Interactive Visulization"
       href: page2.html
   right:
     - icon: fa-github fa-lg
