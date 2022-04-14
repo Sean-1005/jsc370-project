@@ -10,7 +10,7 @@ navbar:
   right:
     - icon: fa-github fa-lg
       href: https://github.com/Sean-1005/jsc370-final-project
-    - text: "My final project Github repo"
+    - text: "My Github repo"
       href: https://github.com/Sean-1005/jsc370-final-project
 output:
   html_document:
